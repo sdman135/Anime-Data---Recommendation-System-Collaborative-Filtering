@@ -35,7 +35,7 @@ I used a csv file I cleaned from a previous project, where I had dropped all the
 
 * Filtered the dataframe
 
-  - Limited dataframe size to include value counts greater then a min value count(50) of anime_id and user_rating, mainly for computing reasons but also scale my data.
+  - Limited dataframe size to include value counts greater then a min value count(50) of anime_id and user_rating, mainly for computing reasons.
 
 * Created Matrix - The start of the recommendation system
 
