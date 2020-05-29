@@ -69,13 +69,4 @@ Hope You'll enjoy my Anime Recommendation - Collaborative Filtering Project
 
 ## Authors
 
-* **Samuel Diaz** - *Creator* - [sdman135](https://github.com/sdman135/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Azathoth - https://www.kaggle.com/azathoth42/myanimelist (the initial .csv file I used, had to clean previously...)
-* codebacis - https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
+* **Samuel Diaz** - *Creator* - [sdman135](https://github.com/sdman135/) - [LinkedIn](https://www.linkedin.com/in/samuel-diaz-data-scientist)
