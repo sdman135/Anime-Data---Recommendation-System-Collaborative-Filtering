@@ -13,11 +13,11 @@ I used a csv file I cleaned from a previous project, where I had dropped all the
 
 * Load and Prepared Data
 
-  Imported .cvs files, into pandas dataframes
+  - Imported .cvs files, into pandas dataframes
 
-  Separated dataset to only include Anime TV shows, Didn't want to include movies.
+  - Separated dataset to only include Anime TV shows, Didn't want to include movies.
 
-  Merged both dataframes on the shared animeID column. As well as drop all non-rated user ratings.
+  - Merged both dataframes on the shared animeID column. As well as drop all non-rated user ratings.
 
 * Did some Exploratory Data Analysis:
 
