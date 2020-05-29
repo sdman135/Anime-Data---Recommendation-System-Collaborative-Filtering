@@ -23,34 +23,37 @@ I used a csv file I cleaned from a previous project, where I had dropped all the
 
   ![](images/EDA.png)
 
-  Plotted the relationship between User Ratings and total amount of User for each rating (1-10), across all animes.
-
+  - Plotted the relationship between User Ratings and total amount of User for each rating (1-10), across all animes.
   ![](images/Usercount-Rating.png)
 
 
-  Visualized the Count of Ratings Per Anime (Filtered up to 300 Ratings per Anime
-    ![](images/Ratingcount-Anime.png)
+  - Visualized the Count of Ratings Per Anime (Filtered up to 300 Ratings per Anime
+  ![](images/Ratingcount-Anime.png)
 
-  Visualized the Count of Ratings Per User (Filtered up to 300 Ratings per User
+  - Visualized the Count of Ratings Per User (Filtered up to 300 Ratings per User
   ![](images/Ratingcount-User.png)
 
 * Filtered the dataframe
 
-  Limited dataframe size to include value counts greater then a min value count(50) of anime_id and user_rating, mainly for computing reasons but also scale my data.
+  - Limited dataframe size to include value counts greater then a min value count(50) of anime_id and user_rating, mainly for computing reasons but also scale my data.
 
 * Created Matrix - The start of the recommendation system
 
-  Pivoted the table to show User_ID's on one axis and the Anime TV Shows across the other. This allowed me to chart the User Ratings by User_ID's and Anime.
+  - Pivoted the table to show User_ID's on one axis and the Anime TV Shows across the other. This allowed me to chart the User Ratings by User_ID's and Anime.
 
-  Transposed and converted the matrix to a sparse matrices
+  - Transposed and converted the matrix to a sparse matrices
 
 * Computed the the similarities
 
-  I ran the spared matrix and transposed matrix through cosine_similarity to find the anime and user similarities
+  - I ran the spared matrix and transposed matrix through cosine_similarity to find the anime and user similarities
 
-  Inserted the 2 similarity matrices into separate dataframes
+  - Inserted the 2 similarity matrices into separate dataframes
 
-* I made functions to call for the recommendations of: Top Similar Animes, Top Similar Users with similarity values, Similar User Ratings and Predicted Rating of a Anime and a User specified.
+* I made functions to call for the recommendations of:
+  - Top Similar Animes
+  - Top Similar Users with similarity values
+  - Similar User Ratings
+  - Predicted Rating of a Anime and a User specified.
 
 * Lastly I made a Function to calculated the Mean Square Error and the Root Mean Square Error of the Predicted Rating of a Anime and a User specified, mentioned above.
 
