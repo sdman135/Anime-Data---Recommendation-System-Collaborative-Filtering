@@ -2,7 +2,7 @@
 ![](images/dataset-cover.png)
 
 
-For this project I chose to do another anime related project. Specifically to make a recommendation system to find the similarity between shows and users to suggest comparable anime shows, users or predicted ratings.
+For this project I chose to do another anime related project. Specifically to make a recommendation system to find the similarity between shows and users to suggest comparable anime shows, users and to predicted a user's ratings.
 
 
 The Data:
