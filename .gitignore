@@ -1,7 +1,8 @@
 
 /data
-.ipynb_checkpoints/
+/.ipynb_checkpoints
 .DS_Store
+.DS_store
 *.csv
 
 # Byte-compiled / optimized / DLL files
