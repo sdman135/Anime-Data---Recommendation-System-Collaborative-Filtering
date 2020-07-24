@@ -9,5 +9,5 @@ Delete - Anime Recommender - Collaborative Filtering.ipynb
 Pyspark_Anime_Recommender.ipynb
 /data
 *.csv
-*.DS_Store
-*.ipynb_checkpoints
+.DS_Store
+.ipynb_checkpoints
