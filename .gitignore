@@ -1,13 +1,7 @@
 
-*.csv
-/Anime Recommender - Collaborative Filtering-Copy2.ipynb
-/Anime Recommender - Collaborative Filtering-Copy1.ipynb
-Ignore/.DS_Store
-Ignore/Pyspark_Anime_Recommender.ipynb
-Ignore/Delete - Anime Recommender - Collaborative Filtering.ipynb
-Delete - Anime Recommender - Collaborative Filtering.ipynb
-Pyspark_Anime_Recommender.ipynb
 /data
+/.ipynb_checkpoints
+.DS_Store
 *.csv
 
 # Byte-compiled / optimized / DLL files
