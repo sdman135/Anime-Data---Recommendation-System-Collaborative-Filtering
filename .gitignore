@@ -1,7 +1,6 @@
 
 /data
-.ipynb_checkpoints/*
-.DS_Store
+/.ipynb_checkpoints
 .DS_Store
 *.csv
 Ignore/Delete - Anime Recommender - Collaborative Filtering.ipynb
