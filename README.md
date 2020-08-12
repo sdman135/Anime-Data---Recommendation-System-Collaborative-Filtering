@@ -64,7 +64,7 @@ Add me on LinkedIn if you liked.
 
 ## Built With
 
-* Python3.8
+* Python 3.8
 * Jupyter Notebook 6.0.0
 * A few of the main imports: pandas, numpy, pyplot, scipy, sklearn
 
