@@ -59,6 +59,7 @@ I used a csv file I cleaned from a previous project, where I had dropped all the
 
 
 Hope You'll enjoy my Anime Recommendation - Collaborative Filtering Project
+Add me on LinkedIn if you liked.
 
 ## Built With
 
